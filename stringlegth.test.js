@@ -1,4 +1,4 @@
-const stringLength = require('./stringLength');
+const stringLength = require('./stringlength');
 
 test('if string length is greater than 1 and less than or equal to 10', () => {
   expect(stringLength('Adedamola')).toBe(true);
