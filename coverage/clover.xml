@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1630749991834" clover="3.2.0">
+  <project timestamp="1630749991834" name="All files">
+    <metrics statements="19" coveredstatements="19" conditionals="8" coveredconditionals="6" methods="7" coveredmethods="7" elements="34" coveredelements="32" complexity="0" loc="19" ncloc="19" packages="1" files="4" classes="4"/>
+    <file name="calc.js" path="/home/susan/Desktop/testing/calc.js">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+      <line num="3" count="3" type="stmt"/>
+      <line num="5" count="3" type="stmt"/>
+      <line num="7" count="3" type="stmt"/>
+      <line num="9" count="3" type="stmt"/>
+      <line num="12" count="1" type="stmt"/>
+    </file>
+    <file name="capital.js" path="/home/susan/Desktop/testing/capital.js">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="3" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+    </file>
+    <file name="reversestring.js" path="/home/susan/Desktop/testing/reversestring.js">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="2" type="stmt"/>
+      <line num="3" count="2" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+    </file>
+    <file name="stringlength.js" path="/home/susan/Desktop/testing/stringlength.js">
+      <metrics statements="7" coveredstatements="7" conditionals="8" coveredconditionals="6" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="4" type="stmt"/>
+      <line num="4" count="4" type="cond" truecount="4" falsecount="0"/>
+      <line num="5" count="2" type="stmt"/>
+      <line num="6" count="2" type="cond" truecount="2" falsecount="2"/>
+      <line num="7" count="2" type="stmt"/>
+      <line num="11" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
