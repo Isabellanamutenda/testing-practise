@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1630749634739" clover="3.2.0">
-  <project timestamp="1630749634740" name="All files">
+<coverage generated="1630749991834" clover="3.2.0">
+  <project timestamp="1630749991834" name="All files">
     <metrics statements="19" coveredstatements="19" conditionals="8" coveredconditionals="6" methods="7" coveredmethods="7" elements="34" coveredelements="32" complexity="0" loc="19" ncloc="19" packages="1" files="4" classes="4"/>
     <file name="calc.js" path="/home/susan/Desktop/testing/calc.js">
       <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>

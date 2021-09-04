@@ -1,9 +1,9 @@
 const reverseString = require('./reversestring');
 
 test('reverse a string', () => {
-  expect(reverseString('Dammy')).toBe('ymmaD');
+  expect(reverseString('Ashley')).toBe('yelhsA');
 })
 
 test('reverse a string', () => {
-  expect(reverseString('Microverse')).toBe('esrevorciM');
+  expect(reverseString('Book')).toBe('kooB');
 })

@@ -1,15 +1,15 @@
 const stringLength = require('./stringlength');
 
 test('if string length is greater than 1 and less than or equal to 10', () => {
-  expect(stringLength('Adedamola')).toBe(true);
+  expect(stringLength('Isabella')).toBe(true);
 });
 
 test('if string length is greater than 1 and less than or equal to 10', () => {
-  expect(stringLength('Adedamola Shittu')).toBe(false);
+  expect(stringLength('Isabella Namutenda')).toBe(false);
 });
 
 test('if string length is greater than 1 and less than or equal to 10', () => {
-  expect(stringLength('Zeenat')).toBe(true);
+  expect(stringLength('Read')).toBe(true);
 });
 
 test('if string length is greater than 1 and less than or equal to 10', () => {

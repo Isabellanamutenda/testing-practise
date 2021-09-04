@@ -1,6 +1,6 @@
 const Calculator = require('./calc');
 
-// let operation = new Calculator();
+
 
 describe('calculate operation', () => {
   test('add the numbers', () => {
@@ -30,16 +30,16 @@ describe('calculate operation', () => {
     expect(Calculator.multiply(8, 8)).toBe(64)
   })
   test('multiply the numbers', () => {
-    expect(Calculator.multiply(19, 2)).toBe(38)
+    expect(Calculator.multiply(79, 2)).toBe(158)
   })
 
   test('divide the numbers', () => {
-    expect(Calculator.divide(4, 4)).toBe(1)
+    expect(Calculator.divide(5, 5)).toBe(1)
   })
   test('divide the numbers', () => {
-    expect(Calculator.divide(36, 6)).toBe(6)
+    expect(Calculator.divide(30, 5)).toBe(6)
   })
   test('divide the numbers', () => {
-    expect(Calculator.divide(400, 4)).toBe(100)
+    expect(Calculator.divide(200, 2)).toBe(100)
   })
 })

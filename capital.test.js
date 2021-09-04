@@ -1,7 +1,7 @@
 const capital = require('./capital');
 
 test('make first letter capitalize', () => {
-  expect(capital('green')).toMatch('Green');
+  expect(capital('yellow')).toMatch('Yellow');
 });
 
 test('make first letter capitalize', () => {
